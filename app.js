@@ -9,4 +9,6 @@ test('Sum test', (t) => {
   assert.equal(Sum(5, 5), 10);
 });
 
+
+
 console.log(`The sum is ${Sum(5, 5)}`);
